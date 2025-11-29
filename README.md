@@ -34,7 +34,6 @@ npm install
 npm run dev
 ```
 
-The website will open at `http://localhost:3000`
 
 ### Build for Production
 
@@ -55,8 +54,7 @@ npm run preview
 3. **About Me** - Bio with profile photo and journey timeline
 4. **Projects** - Interactive project cards with hover animations
 5. **Skills** - Animated skill badges organized by categories
-6. **Experience** - Timeline of achievements and roles
-7. **Contact** - Contact form with social media links
+6. **Contact** - Contact form with social media links
 
 ## 🎨 Customization
 
