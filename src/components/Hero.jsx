@@ -62,7 +62,7 @@ function Hero() {
                 onClick={() => {
                   // Add your resume download link here
                   const link = document.createElement('a')
-                  link.href = './public/Shivam_Resume.pdf' // Update with your resume path
+                  link.href = 'https://drive.google.com/file/d/1BcTxowPK0d5eo-d5b5UdPQThDMvIq_cD/view?usp=sharing' // Update with your resume path
                   link.download = 'Shivam_Resume.pdf'
                   link.click()
                 }}
